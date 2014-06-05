@@ -72,6 +72,7 @@ body {
     color: #eee;
     background-color: #053247;
     font-size: 200%;
+    padding-left: 7%;
 }
 .startpage-circle {
 	border-radius: 75px;
@@ -84,10 +85,6 @@ body {
     position: fixed;
     bottom: 20%;
     right: 4%;
-    padding-right: 10px;
-    padding-bottom: 2%;
-    padding-left: 10px;
-    margin-bottom: 2%;
     max-height: 100%;
     max-width: 100%;
 }
