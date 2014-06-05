@@ -74,7 +74,11 @@ body {
     color: #eee;
     background-color: #053247;
     font-size: 200%;
+<<<<<<< HEAD
     text-align: right;
+=======
+    padding-left: 7%;
+>>>>>>> 8d014e35db0046d128a465d7a8369a9a127c57b6
 }
 .startpage-circle {
 	border-radius: 75px;
@@ -85,9 +89,14 @@ body {
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	background: url(../img/dp.jpg) no-repeat;
     position: fixed;
+<<<<<<< HEAD
     bottom: 5%;
     right: 5%;
     margin-bottom: 2%;
+=======
+    bottom: 20%;
+    right: 4%;
+>>>>>>> 8d014e35db0046d128a465d7a8369a9a127c57b6
     max-height: 100%;
     max-width: 100%;
 }
