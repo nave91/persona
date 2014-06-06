@@ -36,7 +36,7 @@ wrapper {
 .startpage-leftbox p{
     font-family: 'Source Sans Pro', serif;
     font-size: 30px;
-    font-weight: 100;
+    font-weight: ;
     padding-right: 20px;
     color: #5B5B5C;
     text-align: right;
@@ -81,8 +81,8 @@ wrapper {
 }
 .startpage-circle {
 	border-radius: 75px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
+	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
     box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -91,14 +91,11 @@ wrapper {
     bottom: 5%;
     right: 5%;
     margin-bottom: 2%;
-    max-height: 100%;
-    max-width: 100%;
+    
 }
 .startpage-circle img {
     opacity: 0;
 	filter: alpha(opacity=0);
-    max-height: 100%;
-    max-width: 100%;
 }
 
     
