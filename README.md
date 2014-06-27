@@ -1,6 +1,7 @@
 Website. My own! First of its name. 
 ===================================
 Files:
+------
 
 .
 ├── css
@@ -30,3 +31,8 @@ Files:
 │   ├── bootstrap.min.js
 │   └── scripts.js
 └── README.md
+
+
+Fixes:
+------
+Bootstrap might not be necessary.
